@@ -8,7 +8,7 @@ const onButtonClick = () =>
         
         const subject = ['I', 'We', 'You', 'As a certified JEEN-yus, I', 'Clearly, I', 'Do you really think that I', 'It is shocking that you thought I'];
         
-        const verb = ['cannot', 'do not', 'will not', 'probably will not'];
+        const verb = ['cannot', 'do not', 'will not', 'probably will not', 'could', 'would'];
         
         const object = ['listen to your nonsense.', 'with you humon...', 'with me humon...', 'with us humon...', 'understand pointless words.', 'listen to my nonsense.', 'listen to our nonsense.'];
 
